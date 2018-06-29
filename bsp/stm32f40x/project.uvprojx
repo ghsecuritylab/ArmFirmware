@@ -437,9 +437,9 @@
               <FilePath>.\applications\key_scan.c</FilePath>
             </File>
             <File>
-              <FileName>tfcard.cpp</FileName>
-              <FileType>8</FileType>
-              <FilePath>.\tfcard.cpp</FilePath>
+              <FileName>tfcard.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\tfcard.c</FilePath>
             </File>
           </Files>
         </Group>

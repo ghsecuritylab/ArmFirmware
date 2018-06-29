@@ -386,12 +386,12 @@
     <File>
       <GroupNumber>1</GroupNumber>
       <FileNumber>5</FileNumber>
-      <FileType>8</FileType>
+      <FileType>1</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>.\tfcard.cpp</PathWithFileName>
-      <FilenameWithoutPath>tfcard.cpp</FilenameWithoutPath>
+      <PathWithFileName>.\tfcard.c</PathWithFileName>
+      <FilenameWithoutPath>tfcard.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>

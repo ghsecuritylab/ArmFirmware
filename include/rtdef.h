@@ -64,6 +64,7 @@ typedef signed   long                   rt_int32_t;     /**< 32bit integer type 
 typedef unsigned char                   rt_uint8_t;     /**<  8bit unsigned integer type */
 typedef unsigned short                  rt_uint16_t;    /**< 16bit unsigned integer type */
 typedef unsigned long                   rt_uint32_t;    /**< 32bit unsigned integer type */
+typedef unsigned long long 							rt_uint64_t;
 typedef int                             rt_bool_t;      /**< boolean type */
 
 /* 32bit CPU */
